@@ -1,0 +1,475 @@
+Operator + 11/2
+Operator - 7/2
+Operator * 9/2
+Operator / 9/2
+Operator += 16/7
+Operator -= -2/7
+Operator *= 2/7
+Operator /= 7/2
+Operator > 0
+Operator < 0
+Operator >= 1
+Operator <= 1
+Operator == 1
+Operator != 0
+Operator prefix ++ 10/3 5/3 5/3
+Operator postfix ++ 4/3 5/3 5/3
+Operator prefix -- -2/3 -1/3 -1/3
+Operator postfix -- 4/3 -1/3 -1/3
+Operator negative- -2/3 -2/3
+Operator + 8/15
+Operator - 2/15
+Operator * 1/15
+Operator / 5/3
+Operator += 16/5
+Operator -= -6/5
+Operator *= 2/5
+Operator /= 5/2
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 4/1 3/2 5/2
+Operator postfix ++ 2/1 3/2 5/2
+Operator prefix -- 0/1 -1/2 1/2
+Operator postfix -- 2/1 -1/2 1/2
+Operator negative- -1/2 -3/2
+Operator + 23/3
+Operator - 19/3
+Operator * 14/3
+Operator / 21/2
+Operator += 27/8
+Operator -= -11/8
+Operator *= 45/32
+Operator /= 32/45
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 22/5 3/1 7/5
+Operator postfix ++ 12/5 3/1 7/5
+Operator prefix -- 2/5 1/1 -3/5
+Operator postfix -- 12/5 1/1 -3/5
+Operator negative- -2/1 -2/5
+Operator + 9/5
+Operator - -1/5
+Operator * 4/5
+Operator / 4/5
+Operator += 62/35
+Operator -= 8/35
+Operator *= 4/35
+Operator /= 35/4
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 119/30 9/5 13/6
+Operator postfix ++ 59/30 9/5 13/6
+Operator prefix -- -1/30 -1/5 1/6
+Operator postfix -- 59/30 -1/5 1/6
+Operator negative- -4/5 -7/6
+Operator + 11/14
+Operator - -3/14
+Operator * 1/7
+Operator / 4/7
+Operator += 39/7
+Operator -= -25/7
+Operator *= 16/7
+Operator /= 7/16
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 35/8 11/4 13/8
+Operator postfix ++ 19/8 11/4 13/8
+Operator prefix -- 3/8 3/4 -3/8
+Operator postfix -- 19/8 3/4 -3/8
+Operator negative- -7/4 -5/8
+Operator + 67/24
+Operator - 61/24
+Operator * 1/3
+Operator / 64/3
+Operator += 17/5
+Operator -= -7/5
+Operator *= 27/20
+Operator /= 20/27
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 21/8 11/8 5/4
+Operator postfix ++ 5/8 11/8 5/4
+Operator prefix -- -11/8 -5/8 -3/4
+Operator postfix -- 5/8 -5/8 -3/4
+Operator negative- -3/8 -1/4
+Operator + 7/4
+Operator - 0/1
+Operator * 49/64
+Operator / 1/1
+Operator += 29/14
+Operator -= -1/14
+Operator *= 2/7
+Operator /= 7/2
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 21/4 13/4 2/1
+Operator postfix ++ 13/4 13/4 2/1
+Operator prefix -- 5/4 5/4 0/1
+Operator postfix -- 13/4 5/4 0/1
+Operator negative- -9/4 -1/1
+Operator + 13/10
+Operator - 11/10
+Operator * 3/25
+Operator / 12/1
+Operator += 39/8
+Operator -= -23/8
+Operator *= 21/8
+Operator /= 8/21
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 57/10 7/2 11/5
+Operator postfix ++ 37/10 7/2 11/5
+Operator prefix -- 17/10 3/2 1/5
+Operator postfix -- 37/10 3/2 1/5
+Operator negative- -5/2 -6/5
+Operator + 77/40
+Operator - 13/40
+Operator * 9/10
+Operator / 45/32
+Operator += 19/9
+Operator -= -1/9
+Operator *= 1/9
+Operator /= 9/1
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 119/45 13/9 6/5
+Operator postfix ++ 29/45 13/9 6/5
+Operator prefix -- -61/45 -5/9 -4/5
+Operator postfix -- 29/45 -5/9 -4/5
+Operator negative- -4/9 -1/5
+Operator + 16/9
+Operator - -2/9
+Operator * 7/9
+Operator / 7/9
+Operator += 7/1
+Operator -= -5/1
+Operator *= 8/1
+Operator /= 1/8
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 11/1 3/1 8/1
+Operator postfix ++ 9/1 3/1 8/1
+Operator prefix -- 7/1 1/1 6/1
+Operator postfix -- 9/1 1/1 6/1
+Operator negative- -2/1 -7/1
+Operator + 11/12
+Operator - 5/12
+Operator * 1/6
+Operator / 8/3
+Operator += 27/20
+Operator -= 13/20
+Operator *= 1/40
+Operator /= 40/1
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 3/1 9/8 15/8
+Operator postfix ++ 1/1 9/8 15/8
+Operator prefix -- -1/1 -7/8 -1/8
+Operator postfix -- 1/1 -7/8 -1/8
+Operator negative- -1/8 -7/8
+Operator + 128/63
+Operator - 16/63
+Operator * 64/63
+Operator / 9/7
+Operator += 3/1
+Operator -= -1/1
+Operator *= 1/1
+Operator /= 1/1
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 49/4 11/1 5/4
+Operator postfix ++ 41/4 11/1 5/4
+Operator prefix -- 33/4 9/1 -3/4
+Operator postfix -- 41/4 9/1 -3/4
+Operator negative- -10/1 -1/4
+Operator + 8/1
+Operator - -6/1
+Operator * 7/1
+Operator / 1/7
+Operator += 13/6
+Operator -= -1/6
+Operator *= 1/6
+Operator /= 6/1
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 12/1 1/1 11/1
+Operator postfix ++ 10/1 1/1 11/1
+Operator prefix -- 8/1 -1/1 9/1
+Operator postfix -- 10/1 -1/1 9/1
+Operator negative- 0/1 -10/1
+Operator + 5/3
+Operator - 2/3
+Operator * 7/12
+Operator / 7/3
+Operator += 67/24
+Operator -= -19/24
+Operator *= 3/4
+Operator /= 4/3
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 9/2 7/2 1/1
+Operator postfix ++ 5/2 7/2 1/1
+Operator prefix -- 1/2 3/2 -1/1
+Operator postfix -- 5/2 3/2 -1/1
+Operator negative- -5/2 0/1
+Operator + 68/15
+Operator - -32/15
+Operator * 4/1
+Operator / 9/25
+Operator += 49/6
+Operator -= -37/6
+Operator *= 12/1
+Operator /= 1/12
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 20/7 1/1 13/7
+Operator postfix ++ 6/7 1/1 13/7
+Operator prefix -- -8/7 -1/1 -1/7
+Operator postfix -- 6/7 -1/1 -1/7
+Operator negative- 0/1 -6/7
+Operator + 3/2
+Operator - 1/2
+Operator * 1/2
+Operator / 2/1
+Operator += 7/1
+Operator -= -5/1
+Operator *= 35/4
+Operator /= 4/35
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 86/7 9/7 11/1
+Operator postfix ++ 72/7 9/7 11/1
+Operator prefix -- 58/7 -5/7 9/1
+Operator postfix -- 72/7 -5/7 9/1
+Operator negative- -2/7 -10/1
+Operator + 97/36
+Operator - 65/36
+Operator * 1/1
+Operator / 81/16
+Operator += 34/5
+Operator -= -24/5
+Operator *= 4/1
+Operator /= 1/4
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 50/7 8/7 6/1
+Operator postfix ++ 36/7 8/7 6/1
+Operator prefix -- 22/7 -6/7 4/1
+Operator postfix -- 36/7 -6/7 4/1
+Operator negative- -1/7 -5/1
+Operator + 17/7
+Operator - 3/7
+Operator * 10/7
+Operator / 10/7
+Operator += 17/6
+Operator -= -5/6
+Operator *= 5/6
+Operator /= 6/5
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 28/9 10/9 2/1
+Operator postfix ++ 10/9 10/9 2/1
+Operator prefix -- -8/9 -8/9 0/1
+Operator postfix -- 10/9 -8/9 0/1
+Operator negative- -1/9 -1/1
+Operator + 7/2
+Operator - 1/2
+Operator * 3/1
+Operator / 4/3
+Operator += 13/6
+Operator -= -1/6
+Operator *= 1/3
+Operator /= 3/1
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 6/1 4/1 2/1
+Operator postfix ++ 4/1 4/1 2/1
+Operator prefix -- 2/1 2/1 0/1
+Operator postfix -- 4/1 2/1 0/1
+Operator negative- -3/1 -1/1
+Operator + 17/7
+Operator - -11/7
+Operator * 6/7
+Operator / 3/14
+Operator += 20/3
+Operator -= -14/3
+Operator *= 20/3
+Operator /= 3/20
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 17/4 3/1 5/4
+Operator postfix ++ 9/4 3/1 5/4
+Operator prefix -- 1/4 1/1 -3/4
+Operator postfix -- 9/4 1/1 -3/4
+Operator negative- -2/1 -1/4
+Operator + 37/14
+Operator - 5/14
+Operator * 12/7
+Operator / 21/16
+Operator += 31/12
+Operator -= -7/12
+Operator *= 5/12
+Operator /= 12/5
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 23/3 11/3 4/1
+Operator postfix ++ 17/3 11/3 4/1
+Operator prefix -- 11/3 5/3 2/1
+Operator postfix -- 17/3 5/3 2/1
+Operator negative- -8/3 -3/1
+Operator + 14/9
+Operator - -4/9
+Operator * 5/9
+Operator / 5/9
+Operator += 101/18
+Operator -= -65/18
+Operator *= 35/9
+Operator /= 9/35
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 25/8 5/4 15/8
+Operator postfix ++ 9/8 5/4 15/8
+Operator prefix -- -7/8 -3/4 -1/8
+Operator postfix -- 9/8 -3/4 -1/8
+Operator negative- -1/4 -7/8
+Operator + 31/15
+Operator - -19/15
+Operator * 2/3
+Operator / 6/25
+Operator += 16/5
+Operator -= -6/5
+Operator *= 2/5
+Operator /= 5/2
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 103/30 11/6 8/5
+Operator postfix ++ 43/30 11/6 8/5
+Operator prefix -- -17/30 -1/6 -2/5
+Operator postfix -- 43/30 -1/6 -2/5
+Operator negative- -5/6 -3/5
+Operator + 81/40
+Operator - 9/40
+Operator * 81/80
+Operator / 5/4
+Operator += 41/15
+Operator -= -11/15
+Operator *= 8/15
+Operator /= 15/8
+Operator > 0
+Operator < 1
+Operator >= 0
+Operator <= 1
+Operator == 0
+Operator != 1
+Operator prefix ++ 29/5 3/1 14/5
+Operator postfix ++ 19/5 3/1 14/5
+Operator prefix -- 9/5 1/1 4/5
+Operator postfix -- 19/5 1/1 4/5
+Operator negative- -2/1 -9/5
+Operator + 23/10
+Operator - -13/10
+Operator * 9/10
+Operator / 5/18
+Operator += 25/6
+Operator -= -13/6
+Operator *= 7/3
+Operator /= 3/7
+Operator > 1
+Operator < 0
+Operator >= 1
+Operator <= 0
+Operator == 0
+Operator != 1
+Operator prefix ++ 29/6 11/6 3/1
+Operator postfix ++ 17/6 11/6 3/1
+Operator prefix -- 5/6 -1/6 1/1
+Operator postfix -- 17/6 -1/6 1/1
+Operator negative- -5/6 -2/1
